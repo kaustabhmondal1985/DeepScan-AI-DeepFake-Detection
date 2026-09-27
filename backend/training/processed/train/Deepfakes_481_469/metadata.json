@@ -1,0 +1,122 @@
+{
+  "status": "success",
+  "video_path": "C:\\Users\\Kaustabh\\Downloads\\FaceForensics++_test\\manipulated_sequences\\Deepfakes\\c23\\videos\\481_469.mp4",
+  "video_name": "481_469",
+  "split": "train",
+  "label": 1,
+  "label_name": "fake",
+  "manipulation": "Deepfakes",
+  "source_group": "469_481",
+  "total_frames": 414,
+  "fps": 30.0,
+  "duration_seconds": 13.8,
+  "requested_frames": 8,
+  "successful_face_crops": 8,
+  "processing_time_seconds": 111.315,
+  "frames": [
+    {
+      "frame_index": 0,
+      "timestamp": 0.0,
+      "face_detected": true,
+      "crop_path": "training\\processed\\train\\Deepfakes_481_469\\faces\\face_00.jpg",
+      "confidence": null,
+      "bbox": [
+        862,
+        123,
+        1015,
+        331
+      ]
+    },
+    {
+      "frame_index": 59,
+      "timestamp": 1.9666666666666666,
+      "face_detected": true,
+      "crop_path": "training\\processed\\train\\Deepfakes_481_469\\faces\\face_01.jpg",
+      "confidence": null,
+      "bbox": [
+        879,
+        121,
+        1030,
+        334
+      ]
+    },
+    {
+      "frame_index": 118,
+      "timestamp": 3.933333333333333,
+      "face_detected": true,
+      "crop_path": "training\\processed\\train\\Deepfakes_481_469\\faces\\face_02.jpg",
+      "confidence": null,
+      "bbox": [
+        859,
+        123,
+        1010,
+        338
+      ]
+    },
+    {
+      "frame_index": 177,
+      "timestamp": 5.9,
+      "face_detected": true,
+      "crop_path": "training\\processed\\train\\Deepfakes_481_469\\faces\\face_03.jpg",
+      "confidence": null,
+      "bbox": [
+        877,
+        111,
+        1031,
+        322
+      ]
+    },
+    {
+      "frame_index": 236,
+      "timestamp": 7.866666666666666,
+      "face_detected": true,
+      "crop_path": "training\\processed\\train\\Deepfakes_481_469\\faces\\face_04.jpg",
+      "confidence": null,
+      "bbox": [
+        862,
+        124,
+        1016,
+        335
+      ]
+    },
+    {
+      "frame_index": 295,
+      "timestamp": 9.833333333333334,
+      "face_detected": true,
+      "crop_path": "training\\processed\\train\\Deepfakes_481_469\\faces\\face_05.jpg",
+      "confidence": null,
+      "bbox": [
+        854,
+        131,
+        1008,
+        343
+      ]
+    },
+    {
+      "frame_index": 354,
+      "timestamp": 11.8,
+      "face_detected": true,
+      "crop_path": "training\\processed\\train\\Deepfakes_481_469\\faces\\face_06.jpg",
+      "confidence": null,
+      "bbox": [
+        857,
+        129,
+        1008,
+        341
+      ]
+    },
+    {
+      "frame_index": 413,
+      "timestamp": 13.766666666666667,
+      "face_detected": true,
+      "crop_path": "training\\processed\\train\\Deepfakes_481_469\\faces\\face_07.jpg",
+      "confidence": null,
+      "bbox": [
+        867,
+        141,
+        1017,
+        342
+      ]
+    }
+  ]
+}

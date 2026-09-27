@@ -1,0 +1,122 @@
+{
+  "status": "success",
+  "video_path": "C:\\Users\\Kaustabh\\Downloads\\FaceForensics++_test\\manipulated_sequences\\NeuralTextures\\c23\\videos\\924_917.mp4",
+  "video_name": "924_917",
+  "split": "test",
+  "label": 1,
+  "label_name": "fake",
+  "manipulation": "NeuralTextures",
+  "source_group": "917_924",
+  "total_frames": 448,
+  "fps": 25.0,
+  "duration_seconds": 17.92,
+  "requested_frames": 8,
+  "successful_face_crops": 8,
+  "processing_time_seconds": 52.51,
+  "frames": [
+    {
+      "frame_index": 0,
+      "timestamp": 0.0,
+      "face_detected": true,
+      "crop_path": "training\\processed\\test\\NeuralTextures_924_917\\faces\\face_00.jpg",
+      "confidence": null,
+      "bbox": [
+        211,
+        82,
+        312,
+        223
+      ]
+    },
+    {
+      "frame_index": 63,
+      "timestamp": 2.52,
+      "face_detected": true,
+      "crop_path": "training\\processed\\test\\NeuralTextures_924_917\\faces\\face_01.jpg",
+      "confidence": null,
+      "bbox": [
+        209,
+        87,
+        311,
+        231
+      ]
+    },
+    {
+      "frame_index": 127,
+      "timestamp": 5.08,
+      "face_detected": true,
+      "crop_path": "training\\processed\\test\\NeuralTextures_924_917\\faces\\face_02.jpg",
+      "confidence": null,
+      "bbox": [
+        207,
+        74,
+        308,
+        222
+      ]
+    },
+    {
+      "frame_index": 191,
+      "timestamp": 7.64,
+      "face_detected": true,
+      "crop_path": "training\\processed\\test\\NeuralTextures_924_917\\faces\\face_03.jpg",
+      "confidence": null,
+      "bbox": [
+        212,
+        86,
+        313,
+        228
+      ]
+    },
+    {
+      "frame_index": 255,
+      "timestamp": 10.2,
+      "face_detected": true,
+      "crop_path": "training\\processed\\test\\NeuralTextures_924_917\\faces\\face_04.jpg",
+      "confidence": null,
+      "bbox": [
+        211,
+        80,
+        313,
+        225
+      ]
+    },
+    {
+      "frame_index": 319,
+      "timestamp": 12.76,
+      "face_detected": true,
+      "crop_path": "training\\processed\\test\\NeuralTextures_924_917\\faces\\face_05.jpg",
+      "confidence": null,
+      "bbox": [
+        209,
+        84,
+        311,
+        229
+      ]
+    },
+    {
+      "frame_index": 383,
+      "timestamp": 15.32,
+      "face_detected": true,
+      "crop_path": "training\\processed\\test\\NeuralTextures_924_917\\faces\\face_06.jpg",
+      "confidence": null,
+      "bbox": [
+        207,
+        85,
+        309,
+        229
+      ]
+    },
+    {
+      "frame_index": 447,
+      "timestamp": 17.88,
+      "face_detected": true,
+      "crop_path": "training\\processed\\test\\NeuralTextures_924_917\\faces\\face_07.jpg",
+      "confidence": null,
+      "bbox": [
+        211,
+        81,
+        313,
+        224
+      ]
+    }
+  ]
+}

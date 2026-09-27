@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+
+# Environment
+.env
+
+# Uploaded videos
+uploads/*
+!uploads/.gitkeep
+
+# Generated outputs
+outputs/*
+!outputs/.gitkeep
+
+# ML model weights
+models/*
+!models/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,122 @@
+{
+  "status": "success",
+  "video_path": "C:\\Users\\Kaustabh\\Downloads\\FaceForensics++_test\\original_sequences\\youtube\\c23\\videos\\392.mp4",
+  "video_name": "392",
+  "split": "train",
+  "label": 0,
+  "label_name": "real",
+  "manipulation": "original",
+  "source_group": "339_392",
+  "total_frames": 1496,
+  "fps": 30.0,
+  "duration_seconds": 49.867,
+  "requested_frames": 8,
+  "successful_face_crops": 8,
+  "processing_time_seconds": 601.593,
+  "frames": [
+    {
+      "frame_index": 0,
+      "timestamp": 0.0,
+      "face_detected": true,
+      "crop_path": "training\\processed\\train\\original_392\\faces\\face_00.jpg",
+      "confidence": null,
+      "bbox": [
+        638,
+        143,
+        815,
+        368
+      ]
+    },
+    {
+      "frame_index": 213,
+      "timestamp": 7.1,
+      "face_detected": true,
+      "crop_path": "training\\processed\\train\\original_392\\faces\\face_01.jpg",
+      "confidence": null,
+      "bbox": [
+        625,
+        144,
+        795,
+        371
+      ]
+    },
+    {
+      "frame_index": 427,
+      "timestamp": 14.233333333333333,
+      "face_detected": true,
+      "crop_path": "training\\processed\\train\\original_392\\faces\\face_02.jpg",
+      "confidence": null,
+      "bbox": [
+        545,
+        148,
+        726,
+        374
+      ]
+    },
+    {
+      "frame_index": 640,
+      "timestamp": 21.333333333333332,
+      "face_detected": true,
+      "crop_path": "training\\processed\\train\\original_392\\faces\\face_03.jpg",
+      "confidence": null,
+      "bbox": [
+        578,
+        139,
+        755,
+        374
+      ]
+    },
+    {
+      "frame_index": 854,
+      "timestamp": 28.466666666666665,
+      "face_detected": true,
+      "crop_path": "training\\processed\\train\\original_392\\faces\\face_04.jpg",
+      "confidence": null,
+      "bbox": [
+        542,
+        152,
+        724,
+        393
+      ]
+    },
+    {
+      "frame_index": 1067,
+      "timestamp": 35.56666666666667,
+      "face_detected": true,
+      "crop_path": "training\\processed\\train\\original_392\\faces\\face_05.jpg",
+      "confidence": null,
+      "bbox": [
+        562,
+        146,
+        742,
+        378
+      ]
+    },
+    {
+      "frame_index": 1281,
+      "timestamp": 42.7,
+      "face_detected": true,
+      "crop_path": "training\\processed\\train\\original_392\\faces\\face_06.jpg",
+      "confidence": null,
+      "bbox": [
+        537,
+        155,
+        723,
+        380
+      ]
+    },
+    {
+      "frame_index": 1495,
+      "timestamp": 49.833333333333336,
+      "face_detected": true,
+      "crop_path": "training\\processed\\train\\original_392\\faces\\face_07.jpg",
+      "confidence": null,
+      "bbox": [
+        557,
+        141,
+        738,
+        381
+      ]
+    }
+  ]
+}

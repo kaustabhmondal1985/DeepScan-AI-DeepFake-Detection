@@ -1,0 +1,122 @@
+{
+  "status": "success",
+  "video_path": "C:\\Users\\Kaustabh\\Downloads\\FaceForensics++_test\\manipulated_sequences\\Face2Face\\c23\\videos\\672_720.mp4",
+  "video_name": "672_720",
+  "split": "val",
+  "label": 1,
+  "label_name": "fake",
+  "manipulation": "Face2Face",
+  "source_group": "672_720",
+  "total_frames": 564,
+  "fps": 30.0,
+  "duration_seconds": 18.8,
+  "requested_frames": 8,
+  "successful_face_crops": 8,
+  "processing_time_seconds": 84.595,
+  "frames": [
+    {
+      "frame_index": 0,
+      "timestamp": 0.0,
+      "face_detected": true,
+      "crop_path": "training\\processed\\val\\Face2Face_672_720\\faces\\face_00.jpg",
+      "confidence": null,
+      "bbox": [
+        505,
+        134,
+        672,
+        368
+      ]
+    },
+    {
+      "frame_index": 80,
+      "timestamp": 2.6666666666666665,
+      "face_detected": true,
+      "crop_path": "training\\processed\\val\\Face2Face_672_720\\faces\\face_01.jpg",
+      "confidence": null,
+      "bbox": [
+        487,
+        143,
+        658,
+        386
+      ]
+    },
+    {
+      "frame_index": 160,
+      "timestamp": 5.333333333333333,
+      "face_detected": true,
+      "crop_path": "training\\processed\\val\\Face2Face_672_720\\faces\\face_02.jpg",
+      "confidence": null,
+      "bbox": [
+        460,
+        130,
+        637,
+        376
+      ]
+    },
+    {
+      "frame_index": 241,
+      "timestamp": 8.033333333333333,
+      "face_detected": true,
+      "crop_path": "training\\processed\\val\\Face2Face_672_720\\faces\\face_03.jpg",
+      "confidence": null,
+      "bbox": [
+        458,
+        136,
+        634,
+        382
+      ]
+    },
+    {
+      "frame_index": 321,
+      "timestamp": 10.7,
+      "face_detected": true,
+      "crop_path": "training\\processed\\val\\Face2Face_672_720\\faces\\face_04.jpg",
+      "confidence": null,
+      "bbox": [
+        471,
+        132,
+        643,
+        366
+      ]
+    },
+    {
+      "frame_index": 402,
+      "timestamp": 13.4,
+      "face_detected": true,
+      "crop_path": "training\\processed\\val\\Face2Face_672_720\\faces\\face_05.jpg",
+      "confidence": null,
+      "bbox": [
+        492,
+        146,
+        659,
+        380
+      ]
+    },
+    {
+      "frame_index": 482,
+      "timestamp": 16.066666666666666,
+      "face_detected": true,
+      "crop_path": "training\\processed\\val\\Face2Face_672_720\\faces\\face_06.jpg",
+      "confidence": null,
+      "bbox": [
+        485,
+        124,
+        657,
+        361
+      ]
+    },
+    {
+      "frame_index": 563,
+      "timestamp": 18.766666666666666,
+      "face_detected": true,
+      "crop_path": "training\\processed\\val\\Face2Face_672_720\\faces\\face_07.jpg",
+      "confidence": null,
+      "bbox": [
+        455,
+        165,
+        632,
+        395
+      ]
+    }
+  ]
+}

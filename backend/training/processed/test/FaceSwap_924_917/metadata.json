@@ -1,0 +1,122 @@
+{
+  "status": "success",
+  "video_path": "C:\\Users\\Kaustabh\\Downloads\\FaceForensics++_test\\manipulated_sequences\\FaceSwap\\c23\\videos\\924_917.mp4",
+  "video_name": "924_917",
+  "split": "test",
+  "label": 1,
+  "label_name": "fake",
+  "manipulation": "FaceSwap",
+  "source_group": "917_924",
+  "total_frames": 448,
+  "fps": 25.0,
+  "duration_seconds": 17.92,
+  "requested_frames": 8,
+  "successful_face_crops": 8,
+  "processing_time_seconds": 66.691,
+  "frames": [
+    {
+      "frame_index": 0,
+      "timestamp": 0.0,
+      "face_detected": true,
+      "crop_path": "training\\processed\\test\\FaceSwap_924_917\\faces\\face_00.jpg",
+      "confidence": null,
+      "bbox": [
+        225,
+        81,
+        326,
+        229
+      ]
+    },
+    {
+      "frame_index": 63,
+      "timestamp": 2.52,
+      "face_detected": true,
+      "crop_path": "training\\processed\\test\\FaceSwap_924_917\\faces\\face_01.jpg",
+      "confidence": null,
+      "bbox": [
+        222,
+        88,
+        322,
+        230
+      ]
+    },
+    {
+      "frame_index": 127,
+      "timestamp": 5.08,
+      "face_detected": true,
+      "crop_path": "training\\processed\\test\\FaceSwap_924_917\\faces\\face_02.jpg",
+      "confidence": null,
+      "bbox": [
+        219,
+        76,
+        320,
+        217
+      ]
+    },
+    {
+      "frame_index": 191,
+      "timestamp": 7.64,
+      "face_detected": true,
+      "crop_path": "training\\processed\\test\\FaceSwap_924_917\\faces\\face_03.jpg",
+      "confidence": null,
+      "bbox": [
+        225,
+        84,
+        327,
+        229
+      ]
+    },
+    {
+      "frame_index": 255,
+      "timestamp": 10.2,
+      "face_detected": true,
+      "crop_path": "training\\processed\\test\\FaceSwap_924_917\\faces\\face_04.jpg",
+      "confidence": null,
+      "bbox": [
+        225,
+        78,
+        326,
+        222
+      ]
+    },
+    {
+      "frame_index": 319,
+      "timestamp": 12.76,
+      "face_detected": true,
+      "crop_path": "training\\processed\\test\\FaceSwap_924_917\\faces\\face_05.jpg",
+      "confidence": null,
+      "bbox": [
+        222,
+        84,
+        323,
+        228
+      ]
+    },
+    {
+      "frame_index": 383,
+      "timestamp": 15.32,
+      "face_detected": true,
+      "crop_path": "training\\processed\\test\\FaceSwap_924_917\\faces\\face_06.jpg",
+      "confidence": null,
+      "bbox": [
+        218,
+        83,
+        321,
+        229
+      ]
+    },
+    {
+      "frame_index": 447,
+      "timestamp": 17.88,
+      "face_detected": true,
+      "crop_path": "training\\processed\\test\\FaceSwap_924_917\\faces\\face_07.jpg",
+      "confidence": null,
+      "bbox": [
+        224,
+        79,
+        326,
+        223
+      ]
+    }
+  ]
+}

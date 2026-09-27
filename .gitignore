@@ -1,0 +1,47 @@
+# Environment
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+
+# Uploaded/generated media
+uploads/*
+outputs/*
+
+# ML model weights
+models/*.pth
+models/*.pt
+models/*.ckpt
+
+# Training generated data
+training/processed/*
+
+# Logs
+*.log
+
+# Node
+node_modules/
+.next/
+out/
+dist/
+
+# Frontend environment
+frontend/.env
+frontend/.env.local
+frontend/.env.*.local
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
